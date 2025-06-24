@@ -1,8 +1,8 @@
 # Differentially Private Federated *k*-Means Clustering with Server-Side Data
 
 This repository provides an implementation of 
-the ICML paper, **"Differentially Private Federated *k*-Means 
-Clustering with Server-Side Data"**.
+the ICML paper, [**"Differentially Private Federated *k*-Means 
+Clustering with Server-Side Data"**](https://arxiv.org/abs/2506.05408).
 
 ## Installation
 
@@ -68,3 +68,16 @@ python run.py --args_config configs/stackoverflow.yaml
 ```
 
 ---
+
+### Citation
+
+If you use this code or refer to our work, please cite the following paper:
+
+```bibtex
+@inproceedings{scott2025clustering,
+  author    = {Scott, Jonathan and Lampert, Christoph H and Saulpic, David},
+  title     = {Differentially Private Federated \$k\$-Means Clustering with Server-Side Data},
+  booktitle = {Forty-second International Conference on Machine Learning, {ICML}},
+  year      = {2025},
+  url       = {https://arxiv.org/abs/2506.05408},
+}
