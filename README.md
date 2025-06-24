@@ -76,7 +76,7 @@ If you use this code or refer to our work, please cite the following paper:
 ```bibtex
 @inproceedings{scott2025clustering,
   author    = {Scott, Jonathan and Lampert, Christoph H and Saulpic, David},
-  title     = {Differentially Private Federated \$k\$-Means Clustering with Server-Side Data},
+  title     = {Differentially Private Federated $k$-Means Clustering with Server-Side Data},
   booktitle = {Forty-second International Conference on Machine Learning, {ICML}},
   year      = {2025},
   url       = {https://arxiv.org/abs/2506.05408},
